@@ -1,0 +1,15 @@
+C:\Projects\Examples\DotNet.Examples\bin\Debug\net6.0\DotNet.Examples.exe
+C:\Projects\Examples\DotNet.Examples\bin\Debug\net6.0\DotNet.Examples.deps.json
+C:\Projects\Examples\DotNet.Examples\bin\Debug\net6.0\DotNet.Examples.runtimeconfig.json
+C:\Projects\Examples\DotNet.Examples\bin\Debug\net6.0\DotNet.Examples.dll
+C:\Projects\Examples\DotNet.Examples\bin\Debug\net6.0\DotNet.Examples.pdb
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\DotNet.Examples.csproj.AssemblyReference.cache
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\DotNet.Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\DotNet.Examples.AssemblyInfoInputs.cache
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\DotNet.Examples.AssemblyInfo.cs
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\DotNet.Examples.csproj.CoreCompileInputs.cache
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\DotNet.Examples.dll
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\refint\DotNet.Examples.dll
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\DotNet.Examples.pdb
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\DotNet.Examples.genruntimeconfig.cache
+C:\Projects\Examples\DotNet.Examples\obj\Debug\net6.0\ref\DotNet.Examples.dll
